@@ -33,7 +33,7 @@
 
 | Course | Code | Semester | Materials |
 |--------|------|----------|-----------|
-| Discrete Mathematics | COMP233 | Spring 2026 | [📂 Open](./COMP233) |
+| Discrete Mathematics | COMP233 | Spring 2026 | [📂 Open](./BZU_Courses/COMP233) |
 
 ---
 
