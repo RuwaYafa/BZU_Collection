@@ -35,7 +35,7 @@
 ## 📁 Repository Structure
 
 ```text
-BZU_Collection/
+BZU_Courses/
 └── COMP233/
     ├── Exams/
     │   └── Key Answers/
