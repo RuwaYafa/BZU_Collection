@@ -38,23 +38,23 @@ theme: jekyll-theme-minimal
 
 ## 📁 Repository Structure
 
-'''
+```text
 BZU_Courses/
 └── COMP233/
-├── Exams/
-│   └── Key Answers/
-├── Slides/
-│   ├── Ch02_Propositional_Logic/
-│   ├── Ch03_First_Order_Logic/
-│   ├── Ch04_Number_Theory/
-│   ├── Ch05_Sequences_Induction/
-│   ├── Ch06_Set_Theory/
-│   ├── Ch07_Functions/
-│   ├── Ch08_Relations/
-│   ├── Ch09_Counting_Theory/
-│   └── Ch10_Graphs_Trees/
-└── README.md
-'''
+    ├── Exams/
+    │   └── Key Answers/
+    ├── Slides/
+    │   ├── Ch02_Propositional_Logic/
+    │   ├── Ch03_First_Order_Logic/
+    │   ├── Ch04_Number_Theory/
+    │   ├── Ch05_Sequences_Induction/
+    │   ├── Ch06_Set_Theory/
+    │   ├── Ch07_Functions/
+    │   ├── Ch08_Relations/
+    │   ├── Ch09_Counting_Theory/
+    │   └── Ch10_Graphs_Trees/
+    └── README.md
+
 ---
 
 ## 🔗 Connect
@@ -64,9 +64,7 @@ BZU_Courses/
 | 📧 Email | rabuhweidi@birzeit.edu |
 | 🏛️ Office | Najjad Zeenni 201 |
 | 🌐 University | [Birzeit University](https://www.birzeit.edu) |
-| 💻 GitHub | [RuwaYafa](https://github.com/RuwaYafa) |
 | 💼 LinkedIn | [RuwaYafa](https://linkedin.com/in/ruwayafa) |
-| 📘 Facebook | [RuwaYafa](https://facebook.com/RuwaYafa) |
 
 ---
 
