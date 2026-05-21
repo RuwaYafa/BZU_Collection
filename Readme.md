@@ -62,7 +62,7 @@ BZU_Courses/
 | | |
 |--|--|
 | 📧 Email | rabuhweidi@birzeit.edu |
-| 🏛️ Office | Najjad Zeenni 201 |
+| 🏛️ Office | Najad Zenni 201 |
 | 🌐 University | [Birzeit University](https://www.birzeit.edu) |
 | 💼 LinkedIn | [RuwaYafa](https://linkedin.com/in/ruwayafa) |
 
