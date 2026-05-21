@@ -1,4 +1,3 @@
-````markdown
 ---
 theme: jekyll-theme-cayman
 ---
@@ -73,4 +72,3 @@ BZU_Collection/
 <div align="center">
 <sub>Made with ❤️ for BZU students — Spring 2026</sub>
 </div>
-````
