@@ -1,46 +1,73 @@
+---
+theme: jekyll-theme-cayman
+---
+
 <div align="center">
 
 <img src="./MyPhoto.png" 
      width="120" 
      height="120"
+     style="border-radius: 50%;"
      alt="Ruwa Abu Hweidi"/>
 
-<br/><br/>
+# Ruwa Abu Hweidi
+**Instructor | Birzeit University**
+
 *"The measure of a great teacher is not what they know — but what they awaken in others."*
+
+![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses)
+![GitHub repo size](https://img.shields.io/img.shields.io/github/repo-size/RuwaYafa/BZU_Courses)
+
 </div>
 
 ---
 
 ## 🌿 My Vision
 
-> *"A woman who loves to see the human being in everything —*  
+> *"A woman who loves to see the human being in everything —*
 > *Knowledge is not just information — it's the force that sharpens your awareness, deepens your maturity, and fuels your impact. Learn, grow, and leave a mark that inspires the world long after you're gone."*
 
 ---
 
 ## 📚 Courses
 
-| Course |  Code | Semester |
-|--------|------|----------|
-| Discrete Mathematics | COMP233 | Spring 2026 |
+| Course | Code | Semester | Materials |
+|--------|------|----------|-----------|
+| Discrete Mathematics | COMP233 | Spring 2026 | [📂 Open](./COMP233) |
 
 ---
 
 ## 📁 Repository Structure
 
-```
 BZU_Courses/
 └── COMP233/
-    ├── Exams/
-    │   └── Key Answers/    
-    ├── Slides/            
-    └── README.md
-```
+├── Exams/
+│   └── Key Answers/
+├── Slides/
+│   ├── Ch02_Propositional_Logic/
+│   ├── Ch03_First_Order_Logic/
+│   ├── Ch04_Number_Theory/
+│   ├── Ch05_Sequences_Induction/
+│   ├── Ch06_Set_Theory/
+│   ├── Ch07_Functions/
+│   ├── Ch08_Relations/
+│   ├── Ch09_Counting_Theory/
+│   └── Ch10_Graphs_Trees/
+└── README.md
 
 ---
 
 ## 🔗 Connect
 
-- 📧 **Email:** rabuhweidi@birzeit.edu  
-- 🏛️ **Office:** Najjad Zeenni 201  
-- 🌐 [Birzeit University](https://www.birzeit.edu)
+| | |
+|--|--|
+| 📧 Email | rabuhweidi@birzeit.edu |
+| 🏛️ Office | Najjad Zeenni 201 |
+| 🌐 University | [Birzeit University](https://www.birzeit.edu) |
+| 💻 GitHub | [RuwaYafa](https://github.com/RuwaYafa) |
+
+---
+
+<div align="center">
+<sub>Made with ❤️ for BZU students — Spring 2026</sub>
+</div>
