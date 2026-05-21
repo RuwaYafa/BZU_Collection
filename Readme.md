@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-minimal
+theme: al-folio
 ---
 
 <div align="center">
