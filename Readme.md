@@ -6,7 +6,7 @@
      alt="Ruwa Abu Hweidi"/>
 
 <br/><br/>
-
+*"The measure of a great teacher is not what they know — but what they awaken in others."*
 </div>
 
 ---
@@ -44,11 +44,3 @@ BZU_Courses/
 - 📧 **Email:** rabuhweidi@birzeit.edu  
 - 🏛️ **Office:** Najjad Zeenni 201  
 - 🌐 [Birzeit University](https://www.birzeit.edu)
-
----
-
-<div align="center">
-
-*"The measure of a great teacher is not what they know — but what they awaken in others."*
-
-</div>
