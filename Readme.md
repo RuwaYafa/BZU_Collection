@@ -1,5 +1,5 @@
 ---
-theme: al-folio
+theme: jekyll-theme-cayman
 ---
 
 <div align="center">
