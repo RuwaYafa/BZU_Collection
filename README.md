@@ -33,7 +33,7 @@
 
 | Course | Code | Semester | Materials |
 |--------|------|----------|-----------|
-| Discrete Mathematics | COMP233 | Spring 2026 | <a href="https://github.com/RuwaYafa/BZU_Courses/tree/main/COMP233" target="_blank" rel="noopener noreferrer">📂 Open</a> |
+| Discrete Mathematics | COMP233 | Spring 2026 | <a href="https://github.com/RuwaYafa/BZU_Courses/tree/main/COMP233">📂 Open</a> |
 
 ---
 
