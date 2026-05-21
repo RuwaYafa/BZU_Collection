@@ -8,7 +8,7 @@ theme: jekyll-theme-cayman
      width="120" 
      height="120"
      style="border-radius: 50%;"
-     alt="Ruwa Abu Hweidi"/>
+     alt="Ruwa AbuHweidi"/>
 
 # Ruwa Abu Hweidi
 
