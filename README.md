@@ -14,8 +14,8 @@ theme: jekyll-theme-cayman
 
 *"The measure of a great teacher is not what they know — but what they awaken in others."*
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Collection)
-![GitHub repo size](https://img.shields.io/github/repo-size/RuwaYafa/BZU_Collection)
+![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses)
+![GitHub repo size](https://img.shields.io/github/repo-size/RuwaYafa/BZU_Courses)
 
 </div>
 
