@@ -10,7 +10,7 @@ theme: jekyll-theme-cayman
      style="border-radius: 50%;"
      alt="Ruwa AbuHweidi"/>
 
-# Ruwa Abu Hweidi
+# Ruwa AbuHweidi
 
 *"The measure of a great teacher is not what they know — but what they awaken in others."*
 
