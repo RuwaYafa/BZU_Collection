@@ -1,3 +1,4 @@
+````markdown
 ---
 theme: jekyll-theme-cayman
 ---
@@ -15,7 +16,7 @@ theme: jekyll-theme-cayman
 *"The measure of a great teacher is not what they know — but what they awaken in others."*
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Collection)
-![GitHub repo size](https://img.shields.io/img.shields.io/github/repo-size/RuwaYafa/BZU_Collection)
+![GitHub repo size](https://img.shields.io/github/repo-size/RuwaYafa/BZU_Collection)
 
 </div>
 
@@ -23,7 +24,7 @@ theme: jekyll-theme-cayman
 
 ## 🌿 My Vision
 
-> *"A woman who loves to see the human being in everything —*
+> *"A woman who loves to see the human being in everything —*  
 > *Knowledge is not just information — it's the force that sharpens your awareness, deepens your maturity, and fuels your impact. Learn, grow, and leave a mark that inspires the world long after you're gone."*
 
 ---
@@ -39,7 +40,7 @@ theme: jekyll-theme-cayman
 ## 📁 Repository Structure
 
 ```text
-BZU_Courses/
+BZU_Collection/
 └── COMP233/
     ├── Exams/
     │   └── Key Answers/
@@ -54,6 +55,7 @@ BZU_Courses/
     │   ├── Ch09_Counting_Theory/
     │   └── Ch10_Graphs_Trees/
     └── README.md
+```
 
 ---
 
@@ -62,7 +64,7 @@ BZU_Courses/
 | | |
 |--|--|
 | 📧 Email | rabuhweidi@birzeit.edu |
-| 🏛️ Office | Najad Zenni 201 |
+| 🏛️ Office | Najjad Zeenni 201 |
 | 🌐 University | [Birzeit University](https://www.birzeit.edu) |
 | 💼 LinkedIn | [RuwaYafa](https://linkedin.com/in/ruwayafa) |
 
@@ -71,3 +73,4 @@ BZU_Courses/
 <div align="center">
 <sub>Made with ❤️ for BZU students — Spring 2026</sub>
 </div>
+````
