@@ -1,7 +1,3 @@
----
-theme: jekyll-theme-cayman
----
-
 <div align="center">
 
 <img src="./MyPhoto.png" 
