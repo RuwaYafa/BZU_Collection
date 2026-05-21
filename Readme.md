@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 ---
 
 <div align="center">
@@ -11,12 +11,11 @@ theme: jekyll-theme-cayman
      alt="Ruwa Abu Hweidi"/>
 
 # Ruwa Abu Hweidi
-**Instructor | Birzeit University**
 
 *"The measure of a great teacher is not what they know — but what they awaken in others."*
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses)
-![GitHub repo size](https://img.shields.io/img.shields.io/github/repo-size/RuwaYafa/BZU_Courses)
+![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Collection)
+![GitHub repo size](https://img.shields.io/img.shields.io/github/repo-size/RuwaYafa/BZU_Collection)
 
 </div>
 
@@ -39,6 +38,7 @@ theme: jekyll-theme-cayman
 
 ## 📁 Repository Structure
 
+'''
 BZU_Courses/
 └── COMP233/
 ├── Exams/
@@ -54,7 +54,7 @@ BZU_Courses/
 │   ├── Ch09_Counting_Theory/
 │   └── Ch10_Graphs_Trees/
 └── README.md
-
+'''
 ---
 
 ## 🔗 Connect
@@ -65,6 +65,8 @@ BZU_Courses/
 | 🏛️ Office | Najjad Zeenni 201 |
 | 🌐 University | [Birzeit University](https://www.birzeit.edu) |
 | 💻 GitHub | [RuwaYafa](https://github.com/RuwaYafa) |
+| 💼 LinkedIn | [RuwaYafa](https://linkedin.com/in/ruwayafa) |
+| 📘 Facebook | [RuwaYafa](https://facebook.com/RuwaYafa) |
 
 ---
 
