@@ -1,20 +1,21 @@
 <div align="center">
 
-<img src="./MyPhoto.png" 
-     width="120" 
-     height="120"
-     style="border-radius: 50%;"
-     alt="Ruwa AbuHweidi"/>
+  <img src="./MyPhoto.png" 
+       width="120" 
+       height="120" 
+       style="border-radius: 50%; object-fit: cover;" 
+       alt="Ruwa AbuHweidi"/>
 
-# Ruwa AbuHweidi
+  <h1>Ruwa AbuHweidi</h1>
 
-*"The measure of a great teacher is not what they know — but what they awaken in others."*
+  <p><em>"The measure of a great teacher is not what they know — but what they awaken in others."</em></p>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses)
-![GitHub repo size](https://img.shields.io/github/repo-size/RuwaYafa/BZU_Courses)
+  <p>
+    <img src="https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses" alt="GitHub last commit"/> 
+    <img src="https://img.shields.io/github/repo-size/RuwaYafa/BZU_Courses" alt="GitHub repo size"/>
+  </p>
 
 </div>
-
 ---
 
 ## 🌿 My Vision
