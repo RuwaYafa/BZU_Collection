@@ -70,6 +70,13 @@ BZU_Courses/
 
 ---
 
+## 📑 Acknowledgments & Credits
+
+* **Course Material Design:** The core lecture slides and foundational course materials were originally designed and developed by [**Prof. Mustafa Jarrar**](https://www.jarrar.info/courses/DMath/).
+* **Content Refinements:** Special thanks to **Dr. Radi Jarrar** for his edits and contributions to enhancing the course content.
+  
+---
+
 <div align="center">
 <sub>Made with ❤️ for BZU students — Spring 2026</sub>
 </div>
