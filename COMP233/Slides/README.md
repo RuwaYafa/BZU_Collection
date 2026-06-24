@@ -70,7 +70,7 @@ COMP233_Discrete_Math/
 | 1 | Mrs. Karmel Shehadeh | rawadallah@birzeit.edu | Masri 521 |
 | 2 | Dr. Yousef Sabbah | ysabbah@birzeit.edu | Masri 517 |
 | 3 | Dr. Mohammed Alkhanafseh | malkhanafseh@birzeit.edu | Masri 314 |
-| 4 | Mrs. Rewa' Abu Hweidi | rabuhweidi@birzeit.edu | Najjad Zeenni 201 |
+| 4 | Mrs. Ruwa' Abu Hweidi | rabuhweidi@birzeit.edu | Najjad Zeenni 201 |
 | 5 | Mr. Ahmad Hammo | hahamad@birzeit.edu | — |
 | 6 | Mrs. Naimeh Hirbawi | nhirbawi@birzeit.edu | Masri 320 |
 | 7 | Mr. Mohammed Hussain Ali | mhusseinali@birzeit.edu | Masri 520 |
