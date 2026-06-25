@@ -33,7 +33,7 @@
 
 | Course | Code | Semester | Materials |
 |--------|------|----------|-----------|
-| Discrete Mathematics | COMP233 | Spring 2026 | <a href="https://github.com/RuwaYafa/BZU_Courses/tree/main/COMP233">📂 Open</a> |
+| Discrete Mathematics | COMP233 | Spring 2026 | <a href="https://github.com/RuwaYafa/BZU_Courses">📂 Open</a> |
 
 ---
 
@@ -67,7 +67,7 @@ BZU_Courses/
 
 | Project | Description |
 |---------|-------------|
-| LaTeX Exam Generator | A reusable framework for generating Question Sheets, Answer Sheets, and Instructor Answer Keys. |
+| <a href="https://github.com/RuwaYafa/BZU_Courses"> LaTeX Exam Generator | A reusable framework for generating Question Sheets, Answer Sheets, and Instructor Answer Keys. |
 
 ---
 
