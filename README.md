@@ -67,7 +67,7 @@ BZU_Courses/
 
 | Project | Description |
 |---------|-------------|
-| <a href="https://github.com/RuwaYafa/BZU_Latex_Courses_Exams_Template_2026"> LaTeX Exam Generator | A reusable framework for generating Question Sheets, Answer Sheets, and Instructor Answer Keys. |
+| <a href="https://github.com/RuwaYafa/BZU_Latex_Courses_Exams_Template_2026"> LaTeX Multi-Output Exam Template | A reusable framework for generating Question Sheets, Answer Sheets, and Instructor Answer Keys. |
 
 ---
 
