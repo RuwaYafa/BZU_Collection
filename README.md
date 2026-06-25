@@ -22,7 +22,7 @@
 
 ---
 
-## 🌿 Teaching Philosophy
+## 🌿 Teaching Philosophy 
 
 > *"A woman who loves to see the human being in everything —*  
 > *Knowledge is not just information — it's the force that sharpens your awareness, deepens your maturity, and fuels your impact. Learn, grow, and leave a mark that inspires the world long after you're gone."*
