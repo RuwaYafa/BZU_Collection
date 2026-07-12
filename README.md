@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses" alt="GitHub last commit" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/repo-size/RuwaYafa/BZU_Courses" alt="GitHub repo size" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🦈-Shark%20Power-blue" alt="Shark Badge" />
 </p>
 
 <br />
@@ -50,6 +52,7 @@ BZU_Courses/
 └── COMP233/
     ├── Exams/
     │   └── Key Answers/
+    │   └── Q_Only/
     ├── Slides/
     │   ├── Ch02_Propositional_Logic/
     │   ├── Ch03_First_Order_Logic/
