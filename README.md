@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍🏫 About
+## 👩‍🏫 About 
 
 This repository serves as my teaching and academic resources space at **Birzeit University, Palestine**.
 

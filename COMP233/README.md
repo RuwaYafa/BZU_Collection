@@ -4,7 +4,7 @@
 
 This directory contains teaching and assessment resources for **COMP233 — Discrete Mathematics**.
 
-The materials are organized to support course delivery, student study, assessment, and reuse of structured teaching resources.
+The materials are organized to support course delivery, student study, assessment, and reuse of structured teaching resources. 
 
 ---
 
