@@ -2,44 +2,61 @@
   <img src="./MyPhoto.png" width="120" height="120" style="border-radius: 50%; object-fit: cover;" alt="Ruwa AbuHweidi" />
 </div>
 
-<br />
-
 <h1 align="center">Ruwa AbuHweidi</h1>
 
-<p align="center">
-  <em>"The measure of a great teacher is not what they know — but what they awaken in others."</em>
-</p>
+<p align="center"><strong>University Instructor • PhD Researcher • AI Evaluation • Arabic NLP</strong></p>
 
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/RuwaYafa/BZU_Courses" alt="GitHub last commit" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/repo-size/RuwaYafa/BZU_Courses" alt="GitHub repo size" />
-</p>
-
-<br />
+<p align="center"><em>"The measure of a great teacher is not what they know — but what they awaken in others."</em></p>
 
 ---
 
-## 🌿 Teaching Philosophy 
+## 👩‍🏫 About
 
-> *"A woman who loves to see the human being in everything —*  
-> *Knowledge is not just information — it's the force that sharpens your awareness, deepens your maturity, and fuels your impact. Learn, grow, and leave a mark that inspires the world long after you're gone."*
+This repository serves as my teaching and academic resources space at **Birzeit University, Palestine**.
+
+It brings together course materials, teaching resources, assessments, student guides, and reusable academic tools developed or organized as part of my university teaching.
+
+My teaching interests intersect with my research in Artificial Intelligence, particularly **Large Language Model evaluation, Arabic NLP, responsible AI, and the educational use of AI**.
+
+---
+
+## 🌿 Teaching Philosophy
+
+> *"A woman who loves to see the human being in everything —  
+> Knowledge is not just information — it's the force that sharpens your awareness, deepens your maturity, and fuels your impact. Learn, grow, and leave a mark that inspires the world long after you're gone."*
+
+I approach teaching as an active process of questioning, reasoning, application, and reflection. The goal is not only to transfer knowledge, but to help students develop the ability to examine it critically, connect it to real contexts, and use it responsibly.
 
 ---
 
 ## 📚 Courses
 
-| Course | Code | Semester | Materials |
-|--------|------|----------|-----------|
-| Discrete Mathematics | COMP233 | Spring 2026 | <a href="https://github.com/RuwaYafa/BZU_Courses">📂 Open</a> |
+| Course | Code | Materials |
+|---|---|---|
+| Discrete Mathematics | COMP233 | [📂 Open Course](./COMP233/) |
+| Artificial Intelligence and Media Literacy | UNIV1110 | [📂 Open Course](./UNIV1110/) |
 
 ---
 
-## 🎯 About this Repository
+## 🔬 Research Interests
 
-This repository contains teaching materials developed for courses at Birzeit University, including lecture slides, exams, answer keys, and reusable LaTeX templates. It aims to provide organized, high-quality resources that support both students and instructors.
+- Large Language Model Evaluation
+- Arabic Natural Language Processing
+- LLM-as-a-Judge and automated evaluation
+- Benchmark and evaluation framework design
+- Robustness and reliability of LLM evaluation
+- Responsible and ethical AI
+- AI and Media Literacy
+
+---
+
+## 🧰 Teaching & Academic Projects
+
+| Project | Description |
+|---|---|
+| [LaTeX Multi-Output Exam Template](https://github.com/RuwaYafa/BZU_Latex_Courses_Exams_Template_2026) | A reusable framework for producing question sheets, answer sheets, and instructor answer keys. |
+| [COMP233 — Discrete Mathematics](./COMP233/) | Course materials, slides, examinations, and supporting resources. |
+| [UNIV1110 — AI and Media Literacy](./UNIV1110/) | Course outline, ten-session teaching material, slides, and student resources. |
 
 ---
 
@@ -47,58 +64,40 @@ This repository contains teaching materials developed for courses at Birzeit Uni
 
 ```text
 BZU_Courses/
-└── COMP233/
-    ├── Exams/
-    │   └── Key Answers/
-    │   └── Q_only/
+├── README.md
+├── MyPhoto.png
+├── COMP233/
+│   ├── README.md
+│   ├── Exams/
+│   └── Slides/
+└── UNIV1110/
+    ├── README.md
+    ├── UNIV1110Outline.pdf
+    ├── All10_Session_UNIV1110.pdf
     ├── Slides/
-    │   ├── Ch02_Propositional_Logic/
-    │   ├── Ch03_First_Order_Logic/
-    │   ├── Ch04_Number_Theory/
-    │   ├── Ch05_Sequences_Induction/
-    │   ├── Ch06_Set_Theory/
-    │   ├── Ch07_Functions/
-    │   ├── Ch08_Relations/
-    │   ├── Ch09_Counting_Theory/
-    │   └── Ch10_Graphs_Trees/
-    └── README.md
+    └── Student_Guide/
 ```
 
-## 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| <a href="https://github.com/RuwaYafa/BZU_Latex_Courses_Exams_Template_2026"> LaTeX Multi-Output Exam Template | A reusable framework for generating Question Sheets, Answer Sheets, and Instructor Answer Keys. |
+Each course directory has its own `README.md` describing the course and its available resources.
 
 ---
 
 ## 🔗 Connect
 
 | | |
-|--|--|
+|---|---|
 | 📧 Email | rabuhweidi@birzeit.edu |
 | 🏛️ Office | Najad Zenni 201 |
 | 🌐 University | [Birzeit University](https://www.birzeit.edu) |
 | 💼 LinkedIn | [RuwaYafa](https://linkedin.com/in/ruwayafa) |
-| 💼 Facebook | [RuwaYafa](https://www.facebook.com/RuwaYafa) |
-
-
----
-
-### 📑 Acknowledgments & Credits
-
-* The core lecture slides and foundational course materials were originally designed and developed by [Prof. Mustafa Jarrar](https://www.jarrar.info/courses/DMath/).
-* Special thanks to Dr. Radi Jarrar for his edits and contributions to enhancing the course content.
-  
+| 🌐 Facebook | [RuwaYafa](https://www.facebook.com/RuwaYafa) |
 
 ---
 
-## ⭐ Support
+## 📌 Use of Materials
 
-If these materials help you in your studies or teaching, consider starring the repository and sharing it with others.
+Materials in this repository are shared for educational and academic purposes. Where course materials originate from or build upon the work of other contributors, credits are provided within the relevant course directory.
 
 ---
 
-<div align="center">
-<sub>Developed with ❤️ by Ruwa AbuHweidi for the BZU community.</sub>
-</div>
+<div align="center"><sub>Teaching and academic resources by Ruwa AbuHweidi • Birzeit University</sub></div>
