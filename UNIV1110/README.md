@@ -141,8 +141,8 @@
 |---|---|
 | [`UNIV1110Outline.pdf`](./UNIV1110Outline.pdf) | المخطط الرسمي للمساق |
 | [`All10_Session_UNIV1110.pdf`](./All10_Session_UNIV1110.pdf) | المادة الكاملة للقاءات العشرة |
-| [`Slides/`](./Slides/) | عروض اللقاءات |
-| [`Student_Guide/`](./Student_Guide/) | دليل الطالب والمواد المساندة |
+| [Slides](https://github.com/RuwaYafa/BZU_Courses/tree/main/UNIV1110/Slides) | عروض اللقاءات |
+| [Student Guide](https://github.com/RuwaYafa/BZU_Courses/tree/main/UNIV1110/Student_Guide) | دليل الطالب |
 
 ---
 
