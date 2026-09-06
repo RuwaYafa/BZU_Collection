@@ -38,18 +38,6 @@ I approach teaching as an active process of questioning, reasoning, application,
 
 ---
 
-## 🔬 Research Interests
-
-- Large Language Model Evaluation
-- Arabic Natural Language Processing
-- LLM-as-a-Judge and automated evaluation
-- Benchmark and evaluation framework design
-- Robustness and reliability of LLM evaluation
-- Responsible and ethical AI
-- AI and Media Literacy
-
----
-
 ## 🧰 Teaching & Academic Projects
 
 | Project | Description |
